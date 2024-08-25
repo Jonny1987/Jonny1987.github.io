@@ -1,0 +1,8 @@
+[{
+"relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.getworkwith.workwith",
+    "sha256_cert_fingerprints": ["B8:DB:CA:7E:59:63:28:76:F1:E9:55:12:83:E3:A0:EE:CB:96:EB:86:CA:E6:76:AD:3E:A0:9F:71:C8:D9:75:69", "7D:EF:6F:EB:24:2E:0C:94:80:58:09:CF:6C:CD:06:91:46:5A:1F:27:B0:75:33:D1:50:AB:54:6C:B3:3E:0B:7D"]
+  }
+}]
